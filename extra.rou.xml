@@ -1,16 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!-- generated on 2025-03-21 22:39:30 by Eclipse SUMO netedit Version 1.22.0
--->
-
-<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
-    <!-- Vehicles, persons and containers (sorted by depart) -->
-    <flow id="veh1" begin="0.00" from="3" to="28" via="14 15" end="3600.00" vehsPerHour="1800"/>
-    <flow id="veh2" begin="0.00" color="cyan" from="7" to="23" via="11 17" end="3600.00" vehsPerHour="1800"/>
-    <flow id="veh3" begin="0.00" color="255,0,24" from="2" to="10" via="6" end="3600.00" vehsPerHour="1800"/>
-    <flow id="veh4" begin="0.00" color="55,255,0" from="22" to="28" via="26" end="3600.00" vehsPerHour="1800"/>
-    <flow id="veh5" begin="0.00" color="128,128,0" from="24" to="8" via="18 12" end="3600.00" vehsPerHour="1800"/>
-    <flow id="veh6" begin="0.00" color="magenta" from="30" to="4" via="16 13" end="3600.00" vehsPerHour="1800"/>
-    <flow id="veh7" begin="0.00" color="white" from="9" to="1" via="5" end="3600.00" vehsPerHour="1800"/>
-    <flow id="veh8" begin="0.00" color="0,0,128" from="27" to="21" via="25" end="3600.00" vehsPerHour="1800"/>
-</routes>
+version https://git-lfs.github.com/spec/v1
+oid sha256:01af698629cbb48e40a7bb01c56ed7735e2be26c49913a3db3a0e2d3fe2b6c9f
+size 1221
