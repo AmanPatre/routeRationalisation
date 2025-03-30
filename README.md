@@ -207,7 +207,7 @@ python extra_prediction.py
 - Developed the data collection pipeline
 - Implemented real-time traffic monitoring
 
-### Priyanshu Bidhur
+### Priyanshu Bidhuri
 
 - Developed the data processing pipeline
 - Implemented the visualization components
